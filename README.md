@@ -8,7 +8,7 @@ Small script to allow users to show an ID to nearby players based on proximity. 
 ## Setup
 1. Create an item in your database called `citizen-card`
 2. Add `brp-identity` to your server config
-3. The `/fingerprint` command will not work without you writing the server side as I am not releasing that script.
+3. There is tooling for a `/fingerprint` command for police but you will need to code it yourself as I am not releasing that script.
 4. You need to replace the notifications we use with your own notification system.
 
 ### Support
